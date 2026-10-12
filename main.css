@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: hotpink;
+}
+
+
+
+
+.hello {
+    text-align: center;
+
+
+}
+
+.s {
+    text-align: center;
+}
+.b {
+    color: white;
+}
+.hello2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: end;
+
+}
+.salom {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+
+}
+.salom2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+}
+.salom3 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+}
+span {
+    color: black;
+}
+p {
+    color: hotpink;
+    line-height:20px ;
+}
